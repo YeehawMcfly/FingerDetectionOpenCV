@@ -1,0 +1,9 @@
+# Ignore all images in captured_dataset folder
+captured_dataset/**/*.jpg
+captured_dataset/**/*.jpeg
+captured_dataset/**/*.png
+captured_dataset/**/*.gif
+captured_dataset/**/*.bmp
+
+# Alternative: ignore all files in captured_dataset
+# captured_dataset/**
